@@ -280,7 +280,7 @@ GPL v2 or later
 
 ## Crediti
 
-**Sviluppato da:** MiniMax Agent  
+**Sviluppato da:**TechExpresso
 **Versione:** 1.0.0  
 **Compatibilità WordPress:** 5.0+  
 **Testato fino a:** WordPress 6.4  
